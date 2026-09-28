@@ -1,0 +1,5 @@
+.env
+.venv
+.data/warframe_filtrada.jsonl
+.data/warframe_db/
+__pycache__/
