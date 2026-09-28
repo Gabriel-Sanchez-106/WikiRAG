@@ -37,9 +37,9 @@ from PySide6.QtWidgets import (
 
 os.environ["QT_ENABLE_HIGHDPI_SCALING"] = "1"
 
-#from rag import preguntar
+from rag import preguntar
 
-def preguntar(q): import time; time.sleep(2); return f"Respuesta de prueba a **{q}**"
+#def preguntar(q): import time; time.sleep(2); return f"Respuesta de prueba a **{q}**"
 
 # ============================================================
 # CONFIG
